@@ -1,2 +1,2 @@
 # HSD
-Eine App für das Berufkolleg Haspel zum Management des Schülersanitätsdienstes.
+Eine App für das Berufskolleg Haspel zum Management des Schülersanitätsdienstes.
